@@ -41,7 +41,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CRiMiNaL786/DESTROYX-BACKUP)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stdrosebot/DESTROYX-BACKUP)
 
 # Requirements 
 * Python 3.8 or Higher
